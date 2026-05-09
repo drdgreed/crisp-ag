@@ -17,6 +17,8 @@ Enterprise adoption of agentic AI — multi-step, tool-calling, and sometimes mu
 CRISP-AG extends the lifecycle logic of [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) by adding three agentic-specific phases: **Operational Context Assembly**, **Trust/Governance/Risk Architecture**, and **Iterative Refinement and Scale**. It also formalizes four implementation artifacts that are under-specified in common AI governance and MLOps practices.
 
 ## Where CRISP-AG sits
+
+```
 ┌─────────────────────────────────────────────────────────────┐
 │ Risk-management standards ISO/IEC 42001 · NIST AI RMF │ ← what governance must achieve
 ├─────────────────────────────────────────────────────────────┤
@@ -24,7 +26,7 @@ CRISP-AG extends the lifecycle logic of [CRISP-DM](https://en.wikipedia.org/wiki
 ├─────────────────────────────────────────────────────────────┤
 │ Reference implementations PACCA, others │ ← code instances applying the artifacts
 └─────────────────────────────────────────────────────────────┘
-
+```
 The standards establish what governance must achieve. CRISP-AG specifies what the producible artifacts look like. Reference implementations make them concrete.
 ## The four core artifacts
 | Artifact | What it specifies | Why it's under-specified today |
