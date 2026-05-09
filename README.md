@@ -64,10 +64,11 @@ The evidence base for v2.3 is practitioner experience, structured framework comp
   month       = {may},
   url         = {https://drdavidreed.com/portfolio}
 }
-Feedback
+```
+##Feedback
 CRISP-AG benefits from peer review and adversarial critique. If you've applied a CRISP-AG-style artifact in production, found a gap, or disagree with the framing, open an issue or email drdgreed@gmail.com. Substantive feedback may be acknowledged in v2.4.
 
 For other governance or agentic-AI work, see drdavidreed.com/portfolio.
 
-License
+###License
 This repository is licensed under Creative Commons Attribution 4.0. You may share, adapt, and build on the framework with attribution.
