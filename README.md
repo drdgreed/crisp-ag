@@ -53,6 +53,7 @@ Full phase-gate definitions and per-class tracks are in [§6 of the paper](https
 CRISP-AG v2.3 is positioned as a **practitioner framework and validation agenda**, not a completed empirical theory. Claims are framed as design propositions and implementation guidance.
 The evidence base for v2.3 is practitioner experience, structured framework comparison, and alignment with standards and security references — not a controlled empirical validation. The paper includes an explicit **Threats to Validity** subsection (§3.2), a **Threats Not Currently Covered** subsection (§7.2), and a **Validation Agenda** (§11) that names what would have to be true for the framework's claims to be falsified.
 ## How to cite
+
 ```bibtex
 @techreport{reed2026crispag,
   author      = {Reed, David G.},
@@ -65,6 +66,17 @@ The evidence base for v2.3 is practitioner experience, structured framework comp
   url         = {https://drdavidreed.com/portfolio}
 }
 ```
+
+## Feedback
+
+CRISP-AG benefits from peer review and adversarial critique. If you've applied a CRISP-AG-style framework in your organization, I'd value your feedback.
+
+For other governance or agentic-AI work, see [drdavidreed.com/portfolio](https://drdavidreed.com/portfolio).
+
+## License
+
+This repository is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). You may share, adapt, and build on this work with attribution.## How to cite
+
 ## Feedback
 CRISP-AG benefits from peer review and adversarial critique. If you've applied a CRISP-AG-style artifact in production, found a gap, or disagree with the framing, open an issue or email drdgreed@gmail.com. Substantive feedback may be acknowledged in v2.4.
 
