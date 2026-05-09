@@ -77,10 +77,4 @@ For other governance or agentic-AI work, see [drdavidreed.com/portfolio](https:/
 
 This repository is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). You may share, adapt, and build on this work with attribution.## How to cite
 
-## Feedback
-CRISP-AG benefits from peer review and adversarial critique. If you've applied a CRISP-AG-style artifact in production, found a gap, or disagree with the framing, open an issue or email drdgreed@gmail.com. Substantive feedback may be acknowledged in v2.4.
-
-For other governance or agentic-AI work, see drdavidreed.com/portfolio.
-
-### License
-This repository is licensed under Creative Commons Attribution 4.0. You may share, adapt, and build on the framework with attribution.
+ repository is licensed under Creative Commons Attribution 4.0. You may share, adapt, and build on the framework with attribution.
