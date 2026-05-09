@@ -75,6 +75,6 @@ For other governance or agentic-AI work, see [drdavidreed.com/portfolio](https:/
 
 ## License
 
-This repository is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). You may share, adapt, and build on this work with attribution.## How to cite
+This repository is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). You may share, adapt, and build on this work with attribution.
 
  repository is licensed under Creative Commons Attribution 4.0. You may share, adapt, and build on the framework with attribution.
