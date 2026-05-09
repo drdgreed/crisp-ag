@@ -18,14 +18,12 @@ CRISP-AG extends the lifecycle logic of [CRISP-DM](https://en.wikipedia.org/wiki
 
 ## Where CRISP-AG sits
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ Risk-management standards ISO/IEC 42001 · NIST AI RMF │ ← what governance must achieve
-├─────────────────────────────────────────────────────────────┤
-│ CRISP-AG (this paper) Implementation artifacts │ ← what the producible artifacts look like
-├─────────────────────────────────────────────────────────────┤
-│ Reference implementations PACCA, others │ ← code instances applying the artifacts
-└─────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    A["<b>Risk-management standards</b><br/>ISO/IEC 42001 · NIST AI RMF<br/><i>what governance must achieve</i>"]
+    B["<b>CRISP-AG (this paper)</b><br/>Implementation artifacts<br/><i>what the producible artifacts look like</i>"]
+    C["<b>Reference implementations</b><br/>PACCA, others<br/><i>code instances applying the artifacts</i>"]
+    A --> B --> C
 ```
 The standards establish what governance must achieve. CRISP-AG specifies what the producible artifacts look like. Reference implementations make them concrete.
 ## The four core artifacts
